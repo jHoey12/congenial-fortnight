@@ -1,0 +1,16 @@
+{
+  "loc.friendlyName": "Запрос оповещений классического Azure Monitor",
+  "loc.helpMarkDown": "[См. дополнительные сведения об этой задаче](https://go.microsoft.com/fwlink/?linkid=870240)",
+  "loc.description": "Соблюдать настроенные правила классического Azure Monitor для активных оповещений",
+  "loc.instanceNameFormat": "Запрос оповещений Azure Monitor",
+  "loc.input.label.connectedServiceNameARM": "Подписка Azure",
+  "loc.input.help.connectedServiceNameARM": "Выберите отслеживаемую подписку на Azure Resource Manager.",
+  "loc.input.label.ResourceGroupName": "Группа ресурсов",
+  "loc.input.help.ResourceGroupName": "Укажите имя отслеживаемой группы ресурсов.",
+  "loc.input.label.ResourceType": "Тип ресурса",
+  "loc.input.help.ResourceType": "Выберите тип отслеживаемого ресурса Azure.",
+  "loc.input.label.resourceName": "Имя ресурса",
+  "loc.input.help.resourceName": "Выберите имя отслеживаемого ресурса Azure.",
+  "loc.input.label.alertRules": "Правила оповещения",
+  "loc.input.help.alertRules": "Список отслеживаемых правил оповещения Azure."
+}

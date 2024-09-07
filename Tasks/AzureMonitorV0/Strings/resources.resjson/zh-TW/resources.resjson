@@ -1,0 +1,16 @@
+{
+  "loc.friendlyName": "查詢傳統 Azure 監視器警示",
+  "loc.helpMarkDown": "[深入了解此工作](https://go.microsoft.com/fwlink/?linkid=870240)",
+  "loc.description": "觀察作用中警示的已設定傳統 Azure 監視器規則",
+  "loc.instanceNameFormat": "查詢 Azure 監視器警示",
+  "loc.input.label.connectedServiceNameARM": "Azure 訂閱",
+  "loc.input.help.connectedServiceNameARM": "選取要監視的 Azure Resource Manager 訂用帳戶。",
+  "loc.input.label.ResourceGroupName": "資源群組",
+  "loc.input.help.ResourceGroupName": "提供要監視的資源群組名稱。",
+  "loc.input.label.ResourceType": "資源類型",
+  "loc.input.help.ResourceType": "選取要監視的 Azure 資源類型。",
+  "loc.input.label.resourceName": "資源名稱",
+  "loc.input.help.resourceName": "選取要監視的 Azure 資源名稱。",
+  "loc.input.label.alertRules": "警示規則",
+  "loc.input.help.alertRules": "要監視的 Azure 警示規則清單。"
+}
